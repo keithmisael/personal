@@ -94,7 +94,7 @@ a:hover {
   aside {
     justify-content: space-between;
     width: 100%;
-    height: 100vh;
+    height: auto;
     padding: 0;
     background-color: var(--dark);
   }
